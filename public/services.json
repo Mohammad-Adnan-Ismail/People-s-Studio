@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Combo Package",
+        "price": "9,999",
+        "description": "Package Includes: 1 Senior & 1 Associate Photographer will cover the event. 1 Videographer (HD Camera Video) .Session: As long as it takes (Max. 4 hrs). Edited Photos - Unlimited .70 copies 4R Size Printed Photographs & Album. Full HD Movie ",
+        "img": "https://scontent.fdac24-2.fna.fbcdn.net/v/t1.6435-9/38277402_854958131361931_279624051964510208_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=cdbe9c&_nc_eui2=AeF6bvPyDtY8Ur0-VDOWD6yKkqqWoUDP3hOSqpahQM_eEwrvYqUSR20-0RaHzcSxF-3-NSQz9G0tH5fStn0PgTl5&_nc_ohc=rDCwo5J8y2YAX_nx9TW&_nc_ht=scontent.fdac24-2.fna&oh=00_AT-XjwgMeFLjbDw0UjoDA-rfPfDz9PNsKs6NUqki5Lt50w&oe=627F8F4A"
+    },
+    {
+        "id": 2,
+        "name": "Standard Package",
+        "price": "6,999",
+        "description": " Package Includes: 2 Associate Photographer Will Cover the Whole Event . Special couple session of Bride and Groom . Session: As long as it takes (Max. 4 hrs). Edited Photos - Unlimited.",
+        "img": "https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/38239081_854958534695224_1487166004294320128_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=cdbe9c&_nc_eui2=AeH22HKF0VC8o6RkhsjbFzBbJAQ3eyT_IvwkBDd7JP8i_Cn25Bvkp7owzelAYtZLJft2QB2XQCltW3vUecr7jo56&_nc_ohc=ruxVlclKhMcAX-cieB3&tn=47h5xNq37Nrcsxdi&_nc_ht=scontent.fdac24-1.fna&oh=00_AT_2AF6Wox273rr-aan-z3KsBQr5OEG67LBV3oWg3i3fpw&oe=627FA539"
+    },
+    {
+        "id": 3,
+        "name": "Standard Combo",
+        "price": "15,000",
+        "description": " Package Includes: 1 Chif, 2 Associate Photographer & 1 Senior Cinematographer will cover the event. Special couple session of Bride and Groom .Session: As long as it takes (Max. 4 hrs). Exclusively Edited Image 100 copies .100 copies 4R Size Printed Photographs & Album. Full HD Movie 1080p + Trailer.",
+        "img": "https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/38405418_854957958028615_3061535353824346112_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=cdbe9c&_nc_eui2=AeGYv7IrKDJij_Vtjb5AqUQkXP9rN0kKhXdc_2s3SQqFd5PO3-KmEoqWygG1lukdFo42l78po5f1z2ivScmkh_DV&_nc_ohc=laO8cbRbTxIAX-s-onY&_nc_ht=scontent.fdac24-1.fna&oh=00_AT-nekMG4KgkS4ICHQhH9cOYFRJgZSiHQil1zT8X8Z2i2g&oe=62819EEA"
+    }
+]
